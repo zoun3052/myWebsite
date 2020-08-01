@@ -608,22 +608,6 @@ a {
       -ms-transform: translate(-50%, -50%);
       transform: translate(-50%, -50%); }
 
-    .fa {
-        display: inline-block;
-        border-radius: 60px;
-        padding: 0.5em 0.6em;
-    } 
-    
-    .fa:hover {
-        opacity: 0.7;
-    }
-    
-    .fa-spin-hover:hover {
-        -webkit-animation: fa-spin 2s infinite linear;
-        -moz-animation: fa-spin 2s infinite linear;
-        -o-animation: fa-spin 2s infinite linear;
-        animation: fa-spin 2s infinite linear;
-      }
 .block-47 .block-47-image {
   -webkit-box-flex: 0;
   -ms-flex: 0 0 50px;
